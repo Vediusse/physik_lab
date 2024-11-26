@@ -58,19 +58,22 @@
    ```bash
    git clone https://github.com/Vediusse/physik_lab.git
    cd physik_lab
+   ```
 
-	2.	Установите зависимости из requirements.txt:
+2.	Установите зависимости из requirements.txt:
+```bash
+	pip install -r requirements.txt
+   ```
 
-pip install -r requirements.txt
 
 
 
 Запуск программы
 
 После установки зависимостей выполните команду:
-
+```bash
 python main.py
-
+```
 График результата откроется в новом окне.
 
 Используемые технологии

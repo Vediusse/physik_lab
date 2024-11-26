@@ -19,13 +19,14 @@
 ---
 
 ## Структура проекта
-
+```txt
 ├── main.py
 ├── integrator.py
 ├── interpolation.py
 ├── requirements.txt
 │   image.png
 └── README.md
+```
 
 ### **Файлы проекта**
 
